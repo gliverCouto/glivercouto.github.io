@@ -47,7 +47,7 @@ menu:
 
 social:
 facebook:
-icon: fa-facebook-square
+icon: fa-facebook
 link: https://facebook.com
 
 twitter:
