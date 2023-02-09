@@ -6,7 +6,7 @@ description: I care about my readers' opinions. Please leave a note or just say 
 ---
 
 ### Write to me
-I care about my readers' opinions. Please leave a note or just say hello.
+Get in touch! Please leave a note or just say hello.
 
 
 <form action="https://formspree.io/{{site.data.main.email}}" method="POST">
@@ -15,7 +15,7 @@ I care about my readers' opinions. Please leave a note or just say hello.
     <input type="email" name="email" class="form-control" placeholder="Enter email">
   </div>
   <div class="form-group">
-    <label for="message">Example textarea</label>
+    <label for="message">Example text area</label>
     <textarea class="form-control" name="content" id="" rows="3" placeholder="Enter your message"></textarea>
   </div>
   <input type="hidden" name="_next" value="{{site.url}}{{page.url}}">
@@ -30,6 +30,6 @@ I care about my readers' opinions. Please leave a note or just say hello.
 
 {% highlight html %}
 
-This form starts working once you update your email in configuration. Delete this line in the contact page found in the path _pages/contact.md
+If you prefer, get my WhatsApp here: 55 (51)993550180
 
 {% endhighlight %}

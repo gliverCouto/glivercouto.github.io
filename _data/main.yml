@@ -51,6 +51,10 @@ social:
   #   icon: fa-twitter
   #    link: https://twitter.com
 
+  whatsapp:
+     icon: fa-whatsapp
+      link: https://wa.me/51993550180
+
   linkedin:
       icon: fa-linkedin
       link: www.linkedin.com/in/gliver
