@@ -1,14 +1,33 @@
 ---
-title: Design
-image: /assets/images/etienne-girardet-360034-unsplash.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, voluptatibus, odio. Saepe dolorem magni qui, porro consectetur quia nobis! Doloribus mollitia id labore placeat autem cum rem, dolorum quos nesciunt.
-company: Another Company
+title: Knowledge Base
+image: /assets/images/knowledge-base.jpg
+description: Development of a Knowledge Base, Information Architecture Design.
+company: Banco Votorantim 
 date:  2018-09-02
 layout: post
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia erat et neque fermentum, sit amet interdum eros lobortis. Sed pharetra tincidunt libero, in aliquet diam eleifend a. Ut semper velit nisi, vel imperdiet ipsum ultricies sed. In sit amet sollicitudin orci, a volutpat nulla. Morbi egestas, dolor ac viverra iaculis, felis lacus pellentesque nisi, vitae semper mauris odio ut ipsum. Sed ultrices velit ac maximus varius. Nunc scelerisque est ex, eu interdum risus fringilla eget. Aenean hendrerit in augue lobortis egestas. Praesent posuere enim tincidunt mollis tincidunt. Mauris a dolor tristique, tincidunt est a, tincidunt felis.
 
+##Context:##
+Planning and development of a knowledge base for one of the largest private banks in Brazil, as part of a project to transform an essentially monolithic architecture into a microservices architecture, acting as the first Technical Writer of the tribe.
 
+##Problem:##
+The complexity of the project and the creation of new API products (both internal and external), combined with the situation of multiple squads working simultaneously, brought the need for more strategic analysis and organization of the information architecture, as well as the development of consistent documentation for all products derived from the new microservices "pipeline."
+
+##Contribuition:##
+- Planning and organization of the knowledge base at the information architecture level; 
+- Development of onboarding articles for the project and microservices, using functional and accessible language to bring greater clarity to complex informations; 
+- Documentation of use cases for internal APIs; 
+- Promotion of a documentation culture and meetups to achieve synchronization between teams in terms of consistency and standardization; 
+- Development of documentation templates to speed up and facilitate the work of teams.
+
+##Impact:##
+- Planning and organization of the knowledge base at the information architecture level; 
+- Development of onboarding articles for the project and microservices, using functional and accessible language to bring greater clarity to complex information; 
+- Documentation of use cases for internal APIs; 
+- Promotion of a documentation culture and meetups to achieve synchronization between teams in terms of consistency and standardization; 
+- Development of documentation templates to speed up and facilitate the teams work.
+
+<!--
 <canvas id="myChart" width="400" height="200"></canvas>
 <script>
 var ctx = document.getElementById("myChart");
@@ -49,14 +68,9 @@ var myChart = new Chart(ctx, {
     }
 });
 </script>
+-->
 
 
 
 
-Aliquam egestas ante vel urna tempor, ut posuere diam efficitur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In arcu enim, varius et erat at, elementum mattis justo. Duis ac gravida ante. Etiam eget ex a quam sagittis porttitor nec vitae neque. Sed imperdiet auctor dictum. Donec viverra justo leo, nec lacinia arcu iaculis id. Nulla eu maximus ipsum. Proin tincidunt mi sit amet augue posuere venenatis. Nam eget maximus lectus. Donec finibus nec metus non dignissim.
 
-Sed eget tempor eros. Nam laoreet venenatis efficitur. Etiam sit amet dapibus leo. Vestibulum dignissim velit eget enim euismod, vel viverra dolor molestie. Donec sollicitudin lacinia arcu, eu malesuada risus. Nam consectetur egestas turpis, id molestie nisl pharetra tempus. Sed eu maximus lectus. Aliquam vitae neque a eros congue porta. Curabitur sit amet nisl velit.
-
-Pellentesque id nisl ut mauris consequat consequat sit amet nec massa. Mauris condimentum mollis velit a fermentum. Quisque volutpat, ipsum vitae finibus luctus, turpis enim feugiat turpis, semper dictum neque tellus sed ligula. Nullam a lacus sit amet purus mollis blandit. Duis venenatis imperdiet feugiat. Aenean purus nunc, efficitur quis gravida quis, fermentum nec lectus. Integer tempor orci tortor, ac ultrices enim convallis at. In faucibus ex sed nunc varius pellentesque. Sed ut metus mi.
-
-In vestibulum dolor malesuada, porttitor dui vitae, iaculis turpis. Maecenas at nisl ex. Ut non leo sed orci consectetur fermentum eget eu lectus. Cras rhoncus porttitor lorem at auctor. Pellentesque imperdiet sit amet nisl eu lacinia. Aenean ullamcorper in neque et ornare. Maecenas eu mi scelerisque, sollicitudin augue maximus, sodales felis. Quisque risus risus, euismod quis aliquam a, fermentum sed ipsum. Vivamus felis est, tempor et varius quis, facilisis vitae sapien. Quisque porttitor dapibus feugiat. Ut semper dignissim volutpat. Maecenas sit amet orci eros. Proin ac metus feugiat nulla dapibus vestibulum id sit amet purus.
