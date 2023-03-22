@@ -7,20 +7,22 @@ date:  2018-09-02
 layout: post
 ---
 
-##Context:##
+##Context:
+
 Planning and development of a knowledge base for one of the largest private banks in Brazil, as part of a project to transform an essentially monolithic architecture into a microservices architecture, acting as the first Technical Writer of the tribe.
 
-##Problem:##
+##Problem:
+
 The complexity of the project and the creation of new API products (both internal and external), combined with the situation of multiple squads working simultaneously, brought the need for more strategic analysis and organization of the information architecture, as well as the development of consistent documentation for all products derived from the new microservices "pipeline."
 
-##Contribuition:##
+##Contribuition:
 - Planning and organization of the knowledge base at the information architecture level; 
 - Development of onboarding articles for the project and microservices, using functional and accessible language to bring greater clarity to complex informations; 
 - Documentation of use cases for internal APIs; 
 - Promotion of a documentation culture and meetups to achieve synchronization between teams in terms of consistency and standardization; 
 - Development of documentation templates to speed up and facilitate the work of teams.
 
-##Impact:##
+##Impact:
 - Planning and organization of the knowledge base at the information architecture level; 
 - Development of onboarding articles for the project and microservices, using functional and accessible language to bring greater clarity to complex information; 
 - Documentation of use cases for internal APIs; 
