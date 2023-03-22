@@ -28,29 +28,35 @@ The software architecture transformations at the client highlighted the need for
 
 <br />
 
-*PT-br:*
+***Em Português:***
+
+<br>
 
 ***Contexto***
-
-<br />
 *Implementação de Bulding Blocks (microserviços com características reaproveitáveis), na transformação da arquitetura de software do cliente, um dos maiores bancos privados do Brasil.*
 
-***Problema***
-
 <br />
+
+<br>
+
+***Problema***
 *As transformações na arquitetura de software do cliente evidenciaram a necessidade da elaboração de documentações para as APIs destes novos microserviços e a escolha de uma ferramenta adequada.*
 
-***Contribuição***
-
 <br />
+
+<br>
+
+***Contribuição***
 *- Refinamento das OpenAPI Specifications com o swagger editor, buscando a padronização dos contratos das APIs, seguindo boas práticas e referências como a [Open Policy Agent](https://www.openpolicyagent.org/), também outros padrões estabelecidos pelo setor de governança de APIs do cliente;*
 
 *- Reescrita e elaboração de descrições para atributos e enpoints das APIs, garantindo uma linguagem acessível com o uso de ferramentas de redação técnica como voz ativa, eliminação de prosopopéias e escolha correta de termos.*
 
 *- Meetups com as squads responsáveis visando garantir a implementação de boas práticas de documentação*
 
-***Impacto***
+<br>
 
-<br />
+***Impacto***
 *- Maior satisfação dos consumidores das APIs, facilitando a integração, entendimento e adoção dos novos Building Blocks;*
 *- Diminuição gradativa dos contatos de suporte aos engenheiros.*
+
+<br />
