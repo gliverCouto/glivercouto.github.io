@@ -24,7 +24,7 @@ The software architecture transformations at the client highlighted the need for
 ### Impact ###
 
 - Greater satisfaction of API consumers, facilitating the integration, understanding, and adoption of the new Building Blocks;
-- Gradual reduction in support contacts for engineers.
+- Gradual decreasing in support contacts for engineers.
 
 <br />
 
