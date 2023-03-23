@@ -1,12 +1,22 @@
 ---
-title: Designing a Flag
-image: /assets/images/shubham-beeharry-223969.jpg
-author: John Doe
+title: Oops! My bad...
+image: <div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/2vlC9FMLSmqGs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/2vlC9FMLSmqGs">via GIPHY</a></p>
+author: Gliver
 categories:
     - work
     - projects
 layout: post
 ---
+
+Sorry, nothing here yet.
+
+As soon as possible some interesting articles about technical writing,
+API Documentation and AI to help in docs will be here.
+
+<!--
+
+This is a example:
+
 Learning is the act of acquiring new or modifying and reinforcing existing knowledge, behaviors, skills, values, or preferences which may lead to a potential change in synthesizing information, depth of the knowledge, attitude or behavior relative to the type and range of experience.
 
 The ability to learn is possessed by humans, animals, plants and some machines. Progress over time tends to follow a learning curve.
@@ -35,3 +45,4 @@ Active learning is a key characteristic of student-centered learning. Conversely
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Learning){: target="_blank"}
 
 Image Credits: [Pixabay](https://pixabay.com)
+-->
