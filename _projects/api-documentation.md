@@ -13,7 +13,7 @@ Implementation of Building Blocks (reusable microservices) as part of the softwa
 
 ### Problem ###
 
-The software architecture transformations at the client highlighted the need for APIs documentations for these new microservices and the selection of an appropriate tool.
+The software architecture transformations at the client highlighted the need for APIs documentations for these new microservices and the selection of an appropriate tool for internal implementation.
 
 ### Contribuition ###
 
@@ -36,7 +36,7 @@ Implementação de Bulding Blocks (microserviços com características reaprovei
 
 ***Problema***
 
-As transformações na arquitetura de software do cliente evidenciaram a necessidade da elaboração de documentações para as APIs destes novos microserviços e a escolha de uma ferramenta adequada.
+As transformações na arquitetura de software do cliente evidenciaram a necessidade da elaboração de documentações para as APIs destes novos microserviços e a escolha de uma ferramenta adequada para implementação interna.
 
 ***Contribuição***
 
