@@ -40,7 +40,7 @@ As transformações na arquitetura de software do cliente evidenciaram a necessi
 
 ***Contribuição***
 
-- Refinamento das OpenAPI Specifications com o swagger editor, buscando a padronização dos contratos das APIs, seguindo boas práticas e referências como a [Open Policy Agent](https://www.openpolicyagent.org/), também outros padrões estabelecidos pelo setor de governança de APIs do cliente;*
+- Refinamento das OpenAPI Specifications com o swagger editor, buscando a padronização dos contratos das APIs, seguindo boas práticas e referências como a [Open Policy Agent](https://www.openpolicyagent.org/), também outros padrões estabelecidos pelo setor de governança de APIs do cliente;
 - Reescrita e elaboração de descrições para atributos e enpoints das APIs, garantindo uma linguagem acessível com o uso de ferramentas de redação técnica como voz ativa, eliminação de prosopopéias e escolha correta de termos.
 - Meetups com as squads responsáveis visando garantir a implementação de boas práticas de documentação.
 
