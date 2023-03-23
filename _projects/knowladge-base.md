@@ -45,7 +45,7 @@ A complexidade do projeto e a derivação de novos produtos de API (internos e e
 
 - Planejamento e organização do knowledge base a nível de arquitetura de informação;
 - Desenvolvimento de artigos de onboarding para o projeto e microserviços, através de uma linguagem funcional e acessível, trazendo maior clareza para informações complexas;
-- Comportamento investigativo e resolutivo organizando obtendo informações com stakeholders;
+- Comportamento investigativo e resolutivo obtendo e organizando informações com stakeholders;
 - Documentação de casos de uso para as APIs;
 - Disseminação da cultura de documentação e meetups buscando a sincronia entre as equipes em termos de consistência e padronização;
 - Desenvolvimento de templates de documentação, buscando acelerar e facilitar o trabalho das equipes.
