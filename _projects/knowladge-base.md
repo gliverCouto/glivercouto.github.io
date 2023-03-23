@@ -13,7 +13,7 @@ Planning and development of a knowledge base for one of the largest private bank
 
 ### Problem ###
 
-The complexity of the project and the creation of new API products (both internal and external), combined with the situation of multiple squads working simultaneously, brought the need for more strategic analysis and organization of the information architecture, as well as the development of consistent documentation for all products derived from the new microservices "pipeline."
+The complexity of the project and the creation of new API products (both internal and external), combined with the situation of multiple squads working simultaneously, brought the need for more strategic analysis and organization of the information architecture, as well as the development of consistent documentation for all products derived from the "new microservices pipeline."
 
 ### Contribution ###
 
@@ -39,7 +39,7 @@ Planejamento e desenvolvimento de um knowledge Base para um dos maiores bancos p
 
 ***Problema***
 
-A complexidade do projeto e a derivação de novos produtos de API (internos e externos), somada a situação de varias squads atuando simultaneamente,  trouxe a necessidade de uma análise e organização mais estratégica da arquitetura da informação e o desenvolvimento de uma documentação consistente de todos produtos derivados da nova "esteira" de microserviços.
+A complexidade do projeto e a derivação de novos produtos de API (internos e externos), somada a situação de varias squads atuando simultaneamente,  trouxe a necessidade de uma análise e organização mais estratégica da arquitetura da informação e o desenvolvimento de uma documentação consistente de todos produtos derivados da nova "esteira de microserviços".
 
 ***Contribuição***
 
