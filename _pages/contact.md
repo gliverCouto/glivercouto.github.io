@@ -30,6 +30,6 @@ Get in touch! Please leave a note or just say hello.
 
 {% highlight html %}
 
-If you prefer, get my WhatsApp here: 55 (51)993550180
+If you prefer, get my WhatsApp: 55 (51)993550180
 
 {% endhighlight %}
