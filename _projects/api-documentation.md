@@ -30,8 +30,6 @@ The software architecture transformations at the client highlighted the need for
 
 ***
 
-**PT-BR (language)**
-
 ***Contexto***
 
 Implementação de Bulding Blocks (microserviços com características reaproveitáveis), na transformação da arquitetura de software do cliente, um dos maiores bancos privados do Brasil.
@@ -48,5 +46,5 @@ As transformações na arquitetura de software do cliente evidenciaram a necessi
 
 ***Impacto***
 
-- Maior satisfação dos consumidores das APIs, facilitando a integração, entendimento e adoção dos novos Building Blocks;*
+- Maior satisfação dos consumidores das APIs, facilitando a integração, entendimento e adoção dos novos Building Blocks;
 - Diminuição gradativa dos contatos de suporte aos engenheiros.
