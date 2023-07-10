@@ -66,7 +66,7 @@ expertise:
     level: 75
     color: rgb(247, 205, 182)
 
-  - title: Swagger
+  - title: OpenAPI Specification
     level: 80
     color: rgb(113, 178, 222)
 
@@ -82,8 +82,8 @@ expertise:
     level: 75
     color: rgb(160, 158, 158)
 
-  - title: MS Office
-    level: 90
+  - title: Static web sites (MKDocs, Docusaurus)
+    level: 75
     color: rgb(112, 195, 148)
 
   - title: Git
@@ -94,12 +94,9 @@ expertise:
     level: 50
     color: rgb(221, 114, 48)
 
-  - title: Jakyll
-    level: 85
+  - title: Figma
+    level: 55
     color: rgb(86, 73, 70)
 
-  - title: OpenAPI Specification
-    level: 75
-    color: rgb(159, 159, 146)
 
 buy-button: true
