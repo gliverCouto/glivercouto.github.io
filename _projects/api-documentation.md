@@ -17,7 +17,7 @@ The software architecture transformations at the client highlighted the need for
 
 ### Contribution ###
 
-- Refinement of OpenAPI Specifications using swagger editor, seeking standardization of API contracts, following best practices and references such as the [Open Policy Agent](https://www.openpolicyagent.org/), as well as other standards established by the client's API governance area;
+- Refinement of OpenAPI Specifications using swagger editor, seeking standardization of API contracts, following best practices, as well as other standards established by the client's API governance area;
 - Rewriting and elaboration of descriptions for API attributes and endpoints, ensuring an accessible language with the use of technical writing tools such as active voice, elimination of anthropomorphism, and correct term selection;
 - Meetups with squad members to ensure the implementation of good documentation practices.
 
@@ -40,7 +40,7 @@ As transformações na arquitetura de software do cliente evidenciaram a necessi
 
 ***Contribuição***
 
-- Refinamento das OpenAPI Specifications com o swagger editor, buscando a padronização dos contratos das APIs, seguindo boas práticas e referências como a [Open Policy Agent](https://www.openpolicyagent.org/), também outros padrões estabelecidos pelo setor de governança de APIs do cliente;
+- Refinamento das OpenAPI Specifications com o swagger editor, buscando a padronização dos contratos das APIs, seguindo boas práticas, também outros padrões estabelecidos pelo setor de governança de APIs do cliente;
 - Reescrita e elaboração de descrições para atributos e enpoints das APIs, garantindo uma linguagem acessível com o uso de ferramentas de redação técnica como voz ativa, eliminação de prosopopéias e escolha correta de termos.
 - Meetups com as squads responsáveis visando garantir a implementação de boas práticas de documentação.
 
