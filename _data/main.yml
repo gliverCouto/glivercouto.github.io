@@ -82,7 +82,7 @@ expertise:
     level: 75
     color: rgb(160, 158, 158)
 
-  - title: Static web sites (MKDocs, Docusaurus)
+  - title: Static sites
     level: 75
     color: rgb(112, 195, 148)
 
