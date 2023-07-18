@@ -31,7 +31,7 @@ The complexity of the project and the creation of new API products (both interna
 
 <br />
 
-![Main page](../assets/images/kronos-space.jpg)
+![Main page](/assets/images/kronos-space.jpg)
 
 ---
 
