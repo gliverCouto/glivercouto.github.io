@@ -1,6 +1,6 @@
 ---
 title: Knowledge Base
-image: /assets/images/kronos-space.jpg
+image: /assets/images/knowledge-base.jpg
 description: Development of a Knowledge Base, Information Architecture Design.
 company: Banco BV
 date: 2023-03-22
@@ -30,6 +30,8 @@ The complexity of the project and the creation of new API products (both interna
 - Greater clarity about the products originating from the new microservices track allowed for a shorter learning curve and streamlined the process of adopting the new APIs.
 
 <br />
+
+![Main page](../assets/images/kronos-space.jpg)
 
 ---
 
