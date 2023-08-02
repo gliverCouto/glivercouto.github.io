@@ -8,9 +8,7 @@ categories:
 layout: post
 ---
 
-### Conteúdo
-
-Meetup para a comunidade Techwriting Brasil sobre o tema portfolio.
+Meetup para a comunidade Tech Writing Brasil sobre o tema portfolio.
 
 <iframe
   src="https://portfoliomeetup.netlify.app/"
